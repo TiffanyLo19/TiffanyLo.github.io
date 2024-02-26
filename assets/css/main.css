@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffecfe;
+		background: #ffe7f4;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1958,7 +1958,7 @@ input, select, textarea {
 
 		select option {
 			color: #000000;
-			background: #FFE7FE;
+			background: #ffe7f4;
 		}
 
 		select:focus::-ms-value {
@@ -2044,7 +2044,7 @@ input, select, textarea {
 			background: #000000;
 			border-color: #80747f;
 			content: '\f00c';
-			color: #FFE7FE;
+			color: #ffe7f4;
 		}
 
 		input[type="checkbox"]:focus + label:before,
@@ -2136,7 +2136,7 @@ input, select, textarea {
 		.icon.alt:before {
 			background-color: #000000;
 			border-radius: 100%;
-			color: #FFE7FE;
+			color: #ffe7f4;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -2399,12 +2399,12 @@ input, select, textarea {
 
 				ul.pagination li > .page.active {
 					background-color: #80747f;
-					color: #ffe7fe;
+					color: #ffe7f4;
 				}
 
 					ul.pagination li > .page.active:hover {
 						background-color: #80747f;
-						color: #ffe7fe !important;
+						color: #ffe7f4 !important;
 					}
 
 					ul.pagination li > .page.active:active {
@@ -2674,7 +2674,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #000000;
 			box-shadow: none;
-			color: #FFE7FE;
+			color: #ffe7f4;
 		}
 
 			input[type="submit"].primary:hover, input[type="submit"].primary:active,
@@ -3115,7 +3115,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #FFE7FE;
+		background-color: #ffe7f4;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3499,7 +3499,7 @@ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.
 		}
 
 		#banner.style2:after {
-			background-color: #FFE7FE;
+			background-color: #ffe7f4;
 		}
 
 		#banner.style3:after {
@@ -3803,7 +3803,7 @@ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.
 		-ms-justify-content: center;
 		justify-content: center;
 		pointer-events: none;
-		background: #ffe7fe;
+		background: #ffe7f4;
 		box-shadow: none;
 		height: 100%;
 		left: 0;
@@ -3931,7 +3931,7 @@ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.
 			}
 
 	body.is-ie #menu {
-		background: #ffe7fe;
+		background: #ffe7f4;
 	}
 
 	body.is-menu-visible #wrapper {
